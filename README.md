@@ -1,16 +1,47 @@
-## Hi there 👋
+## Hi, this is Yiming (Ryan) Shen 👋 
 
-<!--
-**y336shen719/y336shen719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MDSAI (Co-op) @ University of Waterloo  |  Bachelor of STAT (Co-op) @ University of Waterloo
 
-Here are some ideas to get you started:
+📍 Toronto, Canada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+I am a Master of Data Science and Artificial Intelligence (MDSAI) student at the University of Waterloo with a strong background in Statistics and Computing.
+
+My work focuses on building robust, leakage-aware, and reproducible machine learning systems, particularly in time-series modeling and applied ML for real-world decision-making.
+
+I enjoy:
+
+Translating messy, high-dimensional data into structured modeling pipelines
+
+Bridging theory (statistics / ML) with practical deployment
+
+Communicating technical insights to non-technical stakeholders
+
+
+🧩 What I Care About
+
+I am particularly interested in:
+
+RAG / LLM-based systems
+
+Multi-agent system Deployment
+
+Computer Vision
+
+Time-Series Forecasting
+
+Reproducible ML Pipelines
+
+Long term, I aim to work across the full ML lifecycle — from feature engineering and modeling to deployment and monitoring.
+
+
+🤝 Let’s Connect
+
+If you're working on interesting ML/AI problems or building intelligent systems, I would love to connect.
+
+📧 y336shen@uwaterloo.ca (campus)
+
+📧 yimingshen20000719@gmail.com (personal)
+
+🔗 LinkedIn: https://www.linkedin.com/in/yiming-shen-916970211/
