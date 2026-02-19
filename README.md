@@ -23,9 +23,9 @@ Communicating technical insights to non-technical stakeholders
 
 I am particularly interested in:
 
-RAG / LLM-based systems
+AI Engineering
 
-Multi-agent system Deployment
+LLM & NLP
 
 Computer Vision
 
