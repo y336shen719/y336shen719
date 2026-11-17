@@ -29,10 +29,6 @@ LLM & NLP
 
 Computer Vision
 
-Traditional ML Modeling & Time-Series Forecasting
-
-Advanced analytics
-
 Long term, I aim to work across the full ML lifecycle — from EDA, feature engineering and modeling to deployment and monitoring.
 
 
